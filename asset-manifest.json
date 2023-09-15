@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Biz-DBC/static/css/main.4774fd5e.css",
+    "main.js": "/Biz-DBC/static/js/main.24f49d35.js",
+    "static/js/787.3e55a39b.chunk.js": "/Biz-DBC/static/js/787.3e55a39b.chunk.js",
+    "index.html": "/Biz-DBC/index.html",
+    "main.4774fd5e.css.map": "/Biz-DBC/static/css/main.4774fd5e.css.map",
+    "main.24f49d35.js.map": "/Biz-DBC/static/js/main.24f49d35.js.map",
+    "787.3e55a39b.chunk.js.map": "/Biz-DBC/static/js/787.3e55a39b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4774fd5e.css",
+    "static/js/main.24f49d35.js"
+  ]
+}
